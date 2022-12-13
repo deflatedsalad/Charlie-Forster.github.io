@@ -2154,7 +2154,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #000;
+		color: #fff;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3139,7 +3139,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #b3541e;
 		}
 
 		.spotlight.style2 .content {
@@ -3147,7 +3147,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #b3541e;
 		}
 
 		.spotlight.inactive .content {
